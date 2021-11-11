@@ -29,10 +29,10 @@ Stops working randomly (just refresh)
 
 # How to use (Other platforms)
 
-1: Create a public repository on GitHub, and set up GitHub Pages (no need for an index.html)  
-2: Upload your music files on that repository.  
-3: Access your music files on the pages site, get the link, and copy that link (i.e https://yournamehere.github.io/yourprojectname/audiofile.mp3) 
-4: Open the player (https://coffeeman240.github.io/GitHubAudioPlayer/index.html), click on the input field, and paste the link to your audio file into the box. 
-5: Configure your settings, then hit Download.  
-6: Wait for the audio file to download, then press play.  
+1: Create a public repository on GitHub, and set up GitHub Pages (no need for an index.html)    
+2: Upload your music files on that repository.    
+3: Access your music files on the pages site, get the link, and copy that link (i.e https://yournamehere.github.io/yourprojectname/audiofile.mp3)   
+4: Open the player (https://coffeeman240.github.io/GitHubAudioPlayer/index.html), click on the input field, and paste the link to your audio file into the box.   
+5: Configure your settings, then hit Download.    
+6: Wait for the audio file to download, then press play.    
 
