@@ -5,6 +5,7 @@ Features:
 Fully online playback   
 Background music on Quest   
 Customizable volume   
+
 Not implemented:    
 Playback of other media files rather than mp3s    
 Playlists   
