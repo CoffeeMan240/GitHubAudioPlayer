@@ -1,6 +1,6 @@
 # GitHubAudioPlayer
-Play your audio files online and have background music on Quest 
-This is a lightweight audio player for web platforms, as well as playing backgound music on quest 2.  
+Play your audio files online and have background music on Quest   
+This is a lightweight audio player for web platforms, as well as playing backgound music on quest 2.    
 Features: 
 Fully online playback   
 Background music on Quest   
