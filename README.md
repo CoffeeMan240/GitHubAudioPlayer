@@ -13,7 +13,7 @@ Play/Pause Buttons (because they didn't work)
 
 Known Bugs    
 Stops working randomly (just refresh)   
-
+Dev Console goes nuts (just close it)    
 
 # How to use (Quest Platform)
 
