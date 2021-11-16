@@ -18,6 +18,7 @@ Dev Console goes nuts (just close it)
 Example Files     
 https://coffeeman240.github.io/GitHubAudioPlayerExampleRepo/slammingmusic.mp3 (The song from "I thammed my pennith in the car door")      
 https://coffeeman240.github.io/GitHubAudioPlayerExampleRepo/DeltaWhy.mp3 ("Attack of the Killer Queen" from Deltarune Chapter 2)      
+https://coffeeman240.github.io/GitHubAudioPlayerExampleRepo/MysticleQuest3UnboxingAudio.mp3 (Leaked Mysticle Quest 3 Unboxing Audio :troll:)      
 # How to use (Quest Platform)
 
 1: Enable Multitasking on your Quest or Quest 2 by going to Settings - Experimental - Multitasking, and restart your headset.  
